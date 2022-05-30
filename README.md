@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90)
+-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone! This is Ashutosh 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>

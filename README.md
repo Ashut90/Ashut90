@@ -18,7 +18,32 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Namaste ! world 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.linkedin.com/in/ashutosh-tiwari94/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+```yaml
+name: Ashutosh Tiwari
+located_in: Taipei , Taiwan
+current_job: Software QA 
+education:
+  [
+    "Self-Taught Programmer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Electronics Engeener",
+  ]
+company: Truetel Communications 
+
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning"
+  ]
+technical_background:
+  [
+    "Software Automation",
+    "Research - Computer Vision & Machine Learning in Python"
+  ]
+  
+currently_learning: ["Data Structure , C++ and Pytorch"]
+2022 Goals: ["Create 10+ project and leaarn about Embeddded System"]
+hobbies: ["Gaming", "Sports", "Hiking", "Art"]
+```
 

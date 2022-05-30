@@ -53,3 +53,6 @@ hobbies: ["Gaming", "Sports", "Hiking", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv" width="45" height="45"/> 
 </p>
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90&show_icons=true)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90&show_icons=true&theme=radical)

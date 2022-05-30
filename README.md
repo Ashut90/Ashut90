@@ -57,5 +57,5 @@ hobbies: ["Gaming", "Sports", "Hiking", "Art"]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashut90&layout=compact)](https://github.com/Ashut90/github-readme-stats)
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/Ashut90/Ashut90/blob/output/github-contribution-grid-snake.svg)
+
 

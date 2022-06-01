@@ -54,7 +54,8 @@ hobbies: ["Gaming", "Sports", "Hiking", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv" width="45" height="45"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashut90&layout=compact)](https://github.com/Ashut90/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashut90&theme=Ashut90" />
+
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90&show_icons=true&theme=radical)
 
 

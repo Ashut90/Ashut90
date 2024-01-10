@@ -56,7 +56,7 @@ hobbies: ["Gaming", "Sports", "Hiking", "Art"]
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashut90&theme=onedark" />
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90)](https://github.com/Ashut90/github-readme-stats)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut90)
 
 
 

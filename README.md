@@ -42,8 +42,8 @@ technical_background:
     "Research - Computer Vision & Machine Learning in Python"
   ]
   
-currently_learning: ["Data Structure , C++ and Pytorch"]
-2022 Goals: ["Create 10+ project and learn about Embeddded System"]
+currently_learning: ["MLOPS ,Deep Learning and Pytorch"]
+2024 Goals: ["Make Project for deep learnig, Learn Database & LLM, Create Ai application project , Get A new Job"]
 hobbies: ["Gaming", "Sports", "Hiking", "Art"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

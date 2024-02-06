@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ashutosh
 #### I am a ML/DL enthusiast 
-[(<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9"></a>)]
+![Embracing the chaos of Monday mornings like a pro!](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 Software QA Engineer | Automation, ML, CV enthusiast. MEng in Engineering. Python lover. Continuous learner. Let's code together and build something amazing! 🚀
 

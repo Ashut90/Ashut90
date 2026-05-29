@@ -213,13 +213,6 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashut90&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashut90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ashut90&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
 
 </div>

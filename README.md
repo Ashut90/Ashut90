@@ -13,27 +13,41 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
+
+🌏 &nbsp;**New Taipei City, Taiwan**
+
+👨‍💻 &nbsp;Embedded Software Engineer · AI/ML Practitioner
+
+🏭 &nbsp;**4.5+ years** — embedded systems, SQA & test automation
+
+🔩 &nbsp;ARM Cortex-M4 · ADSP-SC598 SoC · Yocto Linux · USB 2.0 Drivers
+
+🔌 &nbsp;I2C · SPI · UART · GPIO · DMA · USB 2.0
+
+🐛 &nbsp;GDB · JTAG · Logic Analyzer · Oscilloscope · ADB
+
+🤖 &nbsp;CNN · Computer Vision · Deep Learning · MLOps
+
+💻 &nbsp;Embedded C · Python · C++ · Bash
+
+🌐 &nbsp;English (Fluent) · Hindi (Native) · Mandarin (Basic)
+
+☕ &nbsp;*Powered by tea — debugging hardware and models alike*
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ```python
 class AshutoshTiwari:
-    def __init__(self):
-        self.location    = "New Taipei City, Taiwan 🇹🇼"
-        self.role        = "Embedded Software Engineer | AI/ML Practitioner"
-        self.experience  = "4.5+ years across embedded systems, SQA & test automation"
-        self.education   = [
-            "MEng — Electrical & Computer Engineering, Tamkang University (VLSI Design)",
-            "BTech — Electrical & Electronics Engineering, Vel Tech University",
-        ]
-        self.embedded    = ["ARM Cortex-M4", "ADSP-SC598 SoC", "AMP140C4",
-                            "Yocto Linux", "USB 2.0 Drivers", "Bootloaders"]
-        self.interfaces  = ["I2C", "SPI", "UART", "GPIO", "DMA", "USB 2.0"]
-        self.debug_tools = ["GDB", "JTAG", "Logic Analyzer", "Oscilloscope", "ADB"]
-        self.ai_stack    = ["CNN", "Computer Vision", "Deep Learning", "MLOps"]
-        self.languages   = ["Embedded C", "Python", "C++", "Bash"]
-        self.spoken      = {"English": "Fluent", "Hindi": "Native", "Mandarin": "Basic"}
-        self.fun_fact    = "Powered by tea ☕ — debugging hardware and models alike"
-
     def current_focus(self):
         return {
             "work":    "USB Wi-Fi driver for ADSP-SC598 SoC on Yocto Linux @ Elytone",
@@ -41,8 +55,7 @@ class AshutoshTiwari:
             "collab":  "AIOps, MLOps, AI-driven QA automation",
         }
 
-me = AshutoshTiwari()
-print(me.current_focus())
+print(AshutoshTiwari().current_focus())
 ```
 
 ---

@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer+%F0%9F%94%A7+%7C+4.5%2B+Years+Experience;SoC+%7C+ARM+Cortex-M4+%7C+Yocto+Linux+%7C+USB+Drivers;Test+Automation+%7C+Silicon+Validation+%7C+JTAG%2FGDB;ML%2FDL+Researcher+%7C+Computer+Vision+%7C+Python;Building+intelligent+systems%2C+one+layer+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashut90&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Ashut90?label=Followers&style=flat-square&color=6AD3F7)](https://github.com/Ashut90)
 
 </div>
 

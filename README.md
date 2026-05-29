@@ -179,45 +179,13 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 ## 🎓 Education & Achievements
 
-<div align="center">
+🎓 &nbsp;**MEng — Electrical & Computer Engineering** · Tamkang University, Taiwan `2018–2020` · VLSI Design & Computer Systems
 
-| Degree | Institution | Year | Focus |
-|--------|-------------|------|-------|
-| **MEng** — Electrical & Computer Engineering | Tamkang University, Taiwan | 2018–2020 | VLSI Design & Computer Systems |
-| **BTech** — Electrical & Electronics Engineering | Vel Tech University, India | 2014–2018 | EEE |
+🎓 &nbsp;**BTech — Electrical & Electronics Engineering** · Vel Tech University, India `2014–2018`
 
-</div>
+🏅 &nbsp;**New Southbound Policy Scholarship** &nbsp;·&nbsp; **Outstanding Student Scholarship** — Tamkang University
 
-<div align="center">
-
-🏅 **New Southbound Policy Scholarship** &nbsp;|&nbsp; 🏅 **Outstanding Student Scholarship** — Tamkang University
-
-📜 **Neural Networks & Deep Learning** — Coursera &nbsp;|&nbsp; 📜 **HackerRank Problem Solving Certificate**
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashut90&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashut90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ashut90&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashut90&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashut90)
-
-</div>
+📜 &nbsp;**Neural Networks & Deep Learning** — Coursera &nbsp;·&nbsp; **HackerRank Problem Solving Certificate**
 
 ---
 

@@ -3,12 +3,15 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-3d-profile
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -16,7 +19,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
-              "githubUserName": "ashut90",
+              "githubUserName": "Ashut90",
               "startForeColor": "#6AD3F7",
               "endForeColor": "#7B2FBE",
               "bgColor": "#0D1117",

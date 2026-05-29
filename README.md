@@ -13,6 +13,8 @@
 
 ## 🧠 About Me
 
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+
 ```python
 class AshutoshTiwari:
     def __init__(self):
@@ -90,6 +92,10 @@ print(me.current_focus())
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github,tensorflow,pytorch,opencv,selenium&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
@@ -194,6 +200,16 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashut90&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 
 </div>
 

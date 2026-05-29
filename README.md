@@ -208,15 +208,6 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashut90&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🌐 3D Contribution Graph
 

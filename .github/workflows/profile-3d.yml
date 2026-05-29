@@ -18,7 +18,7 @@ jobs:
 
       - name: Write settings file
         run: |
-          echo '{"githubUserName":"Ashut90","startForeColor":"#6AD3F7","endForeColor":"#7B2FBE","bgColor":"#0D1117","dotColor":"#6AD3F7","selectedFileName":"profile-night-rainbow.svg"}' > /tmp/3d-settings.json
+          echo '{"githubUserName":"Ashut90","selectedFileName":"profile-night-rainbow.svg"}' > /tmp/3d-settings.json
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:

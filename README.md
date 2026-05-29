@@ -213,7 +213,7 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ashut90/Ashut90/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ashut90/Ashut90/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 
 </div>
 

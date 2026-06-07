@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashutosh%20Tiwari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20MLOps%20%7C%20Test%20Automation&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashutosh%20Tiwari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Firmware%20%7C%20Embedded%20Linux%20%7C%20Yocto&descAlignY=58&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer+%F0%9F%94%A7+%7C+4.5%2B+Years+Experience;SoC+%7C+ARM+Cortex-M4+%7C+Yocto+Linux+%7C+USB+Drivers;Test+Automation+%7C+Silicon+Validation+%7C+JTAG%2FGDB;ML%2FDL+Researcher+%7C+Computer+Vision+%7C+Python;Building+intelligent+systems%2C+one+layer+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=820&lines=Firmware+%2F+Embedded+Linux+engineer;Yocto+Linux+%C2%B7+ADSP-SC598+%C2%B7+brcmfmac+WiFi;Embedded+C+%C2%B7+Python+%C2%B7+Bash+%C2%B7+GDB%2FJTAG;Open+to+firmware+%2F+embedded+Linux+roles+%E2%9C%89)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashut90&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -12,133 +12,64 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-🌏 &nbsp;**New Taipei City, Taiwan**
-
-👨‍💻 &nbsp;Embedded Software Engineer · AI/ML Practitioner
-
-🏭 &nbsp;**4.5+ years** — embedded systems, SQA & test automation
-
-🔩 &nbsp;ARM Cortex-M4 · ADSP-SC598 SoC · Yocto Linux · USB 2.0 Drivers
-
-🔌 &nbsp;I2C · SPI · UART · GPIO · DMA · USB 2.0
-
-🐛 &nbsp;GDB · JTAG · Logic Analyzer · Oscilloscope · ADB
-
-🤖 &nbsp;CNN · Computer Vision · Deep Learning · MLOps
-
-💻 &nbsp;Embedded C · Python · C++ · Bash
-
-🌐 &nbsp;English (Fluent) · Hindi (Native) · Mandarin (Basic)
-
-☕ &nbsp;*Powered by tea — debugging hardware and models alike*
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+🌏 &nbsp;**New Taipei City, Taiwan** — open to firmware / embedded Linux roles
+🔧 &nbsp;Embedded engineer: SoC bring-up, Linux drivers, board-level debugging
+🐧 &nbsp;Yocto Linux (5.0, kernel 6.12) · ADSP-SC598 & AMP140C4 SoC bring-up
+📶 &nbsp;USB WiFi driver work on BCM4373 via `brcmfmac`
+🐛 &nbsp;Live debugging with GDB / JTAG (ICE-1000)
+🐍 &nbsp;Python on the side — small tools, a couple published to PyPI
+📚 &nbsp;Currently relearning C from the ground up and digging into Linux internals
+☕ &nbsp;*Direct, curious, and between roles — happy to talk shop*
 
 ```python
-class AshutoshTiwari:
+class Ashutosh:
     def current_focus(self):
         return {
-            "work":    "USB Wi-Fi driver for ADSP-SC598 SoC on Yocto Linux @ Elytone",
-            "project": "PDF Tutor — offline AI study assistant (Ollama + Gemini + Groq)",
-            "collab":  "AIOps, MLOps, AI-driven QA automation",
+            "status":   "open to work — firmware / embedded Linux",
+            "shipping": "youtube-dubber + pdf-tutor (personal OSS)",
+            "learning": "C fundamentals (K.N. King), embedded Linux internals",
+            "based_in": "New Taipei City, Taiwan",
         }
 
-print(AshutoshTiwari().current_focus())
+print(Ashutosh().current_focus())
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I Actually Use
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Embedded Systems & Hardware**
+**Embedded / Linux**
 
-![ARM](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Yocto](https://img.shields.io/badge/Yocto_Linux-7BB526?style=for-the-badge&logo=linux&logoColor=white)
-![USB](https://img.shields.io/badge/USB_2.0_Driver-555555?style=for-the-badge&logo=usb&logoColor=white)
-![RTOS](https://img.shields.io/badge/RTOS-FF6600?style=for-the-badge&logo=freertos&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Embedded-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto_Linux_5.0-7BB526?style=for-the-badge&logo=linux&logoColor=white)
+![Kernel](https://img.shields.io/badge/Linux_Kernel_6.12-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SoC](https://img.shields.io/badge/ADSP--SC598_%2F_AMP140C4-0091BD?style=for-the-badge&logo=analogdevices&logoColor=white)
+![WiFi](https://img.shields.io/badge/BCM4373_%2F_brcmfmac-555555?style=for-the-badge&logo=wifi&logoColor=white)
 
-**Debugging & Validation**
+**Debug / Tools**
 
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![JTAG](https://img.shields.io/badge/JTAG-FF6600?style=for-the-badge&logo=jtag&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-**AI · ML · DL · CV**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-**DevOps · MLOps · Tools**
-
+![JTAG](https://img.shields.io/badge/JTAG_ICE--1000-FF6600?style=for-the-badge&logo=jtag&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gerrit](https://img.shields.io/badge/Gerrit-808080?style=for-the-badge&logo=gerrit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github,tensorflow,pytorch,opencv,selenium&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 💼 Experience Timeline
+## 🌱 Learning Right Now
 
-```
-2024 – 2026  🔵  Software Engineer — Embedded Systems & Validation
-                 Elytone Electronics · New Taipei City, Taiwan
-                 ↳ USB 2.0 Wi-Fi driver for ADSP-SC598 & AMP140C4 on Yocto Linux
-                 ↳ Device drivers: DMA, interrupt handling, memory management
-                 ↳ Secure bootloader for ARM Cortex-M4 (bare-metal + RTOS)
-                 ↳ Silicon validation via JTAG, GDB, hardware analyzers
+I'd rather be honest about where I'm still building depth than pad a skills list:
 
-2021 – 2023  🟢  Software Development Engineer — Test Automation
-                 Truetel Taiwan · Taipei City, Taiwan
-                 ↳ Python automation framework for Android AI device validation
-                 ↳ GPS API integration testing via ADB on Linux
-                 ↳ C source code modification for Android embedded systems
-
-2020 – 2021  🟡  Software Testing & QA Engineer
-                 CIeNET Technologies · Taipei City, Taiwan
-                 ↳ Validation for Android-based automotive systems (GMC infotainment)
-                 ↳ Performance testing & defect analysis for embedded components
-
-2018 – 2020  🔴  Research Assistant — Deep Learning & Computer Vision
-                 Tamkang University · New Taipei City, Taiwan
-                 ↳ CNN-based pattern recognition in Python & C++
-                 ↳ Data preprocessing pipelines for signal processing
-```
+- **C fundamentals** — working through *C Programming: A Modern Approach* (K.N. King) to make my C rigorous, not just functional.
+- **Embedded Linux internals** — kernel subsystems, the driver model, and how the boot and runtime pieces actually fit together.
 
 ---
 
@@ -148,65 +79,71 @@ print(AshutoshTiwari().current_focus())
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 PDF Tutor — Offline AI Study Assistant
-**Personal Project · Open Source**
+### 🎙️ youtube-dubber
+**Personal · Open Source · [PyPI](https://pypi.org/project/youtube-dubber/)**
 
-Cross-platform Python desktop app that transforms any PDF into an interactive AI-powered learning experience.
+Real-time dubbing for YouTube videos — transcribe, translate, and speak over the audio as it plays.
 
-**Highlights:**
-- Supports **Ollama** (fully offline), **Gemini**, **Groq**, **OpenRouter**
-- **VARK** learning-style system with adaptive AI prompts & quiz detector
-- Visual output: Mermaid diagrams, matplotlib charts, ASCII diagrams
-- Auto-TOC extraction, Anki flashcard export, HTML mindmaps
-- Modular architecture with pytest suite
+- Pipeline: **Groq** (transcription / translation) → **edge-tts** (speech) → **mpv** (playback)
+- Published to PyPI as an installable CLI
+- Built around streaming so the dub keeps pace with the video
 
+![PyPI](https://img.shields.io/pypi/v/youtube-dubber?style=flat-square&logo=pypi&logoColor=white&label=youtube-dubber)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![mpv](https://img.shields.io/badge/mpv-691F69?style=flat-square&logo=mpv&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 USB Wi-Fi Driver — ADSP-SC598 SoC
-**Elytone Electronics · Production**
+### 📘 pdf-tutor
+**Personal · Open Source · [PyPI](https://pypi.org/project/kritrim-Smriti/)**
 
-Custom USB 2.0 Wi-Fi driver for ADSP-SC598 and AMP140C4 SoC platforms.
+Turns a PDF into an interactive, AI-assisted learning session.
+Published to PyPI as `kritrim-Smriti`.
 
-**Highlights:**
-- Full AirPlay integration on Yocto Linux
-- DMA operations, interrupt handling, memory management
-- ADI Yocto-Standard distribution compliant
-- Validated with JTAG + GDB silicon debugging
+- Pluggable backends: **Ollama** (offline), **Gemini**, **Groq**
+- Adaptive prompting and quizzing over document content
+- Built to run fully local when you want it to
 
-![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-7BB526?style=flat-square&logo=linux&logoColor=white)
+![PyPI](https://img.shields.io/pypi/v/kritrim-Smriti?style=flat-square&logo=pypi&logoColor=white&label=kritrim-Smriti)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### 🛡️ Secure Bootloader — ARM Cortex-M4
-**Elytone Electronics · Production**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Bootloader with firmware upgrade mechanisms and rollback protection for bare-metal + RTOS environments.
+### 🧪 ElytestTMS
+**Personal · Deployed**
 
-![ARM](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat-square&logo=arm&logoColor=white)
-![C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+A test-management system for tracking test cases, runs, and results.
+
+- **Flask** web app, deployed on **Oracle Cloud**
+- Organizes test plans, executions, and reporting in one place
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 What I Bring
+**Embedded engineer in transition**
+
+- SoC bring-up from a cold board to a running Yocto image
+- Writing and debugging Linux device drivers (USB WiFi)
+- Reading datasheets, schematics, and disassembly when docs run out
+- Comfortable at the bench: JTAG, GDB, logs, and patience
 
 </td>
 </tr>
 </table>
 
 ---
-
-## 🎓 Education & Achievements
-
-🎓 &nbsp;**MEng — Electrical & Computer Engineering** · Tamkang University, Taiwan `2018–2020` · VLSI Design & Computer Systems
-
-🎓 &nbsp;**BTech — Electrical & Electronics Engineering** · Vel Tech University, India `2014–2018`
-
-🏅 &nbsp;**New Southbound Policy Scholarship** &nbsp;·&nbsp; **Outstanding Student Scholarship** — Tamkang University
-
-📜 &nbsp;**Neural Networks & Deep Learning** — Coursera &nbsp;·&nbsp; **HackerRank Problem Solving Certificate**
-
----
-
 
 ## 📊 GitHub Stats
 
@@ -238,7 +175,6 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashut90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshtiwari94)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashutosh_2194/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23285907/ashutosh-tiwari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ashut90.github.io/ashutoshtiwari.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ash945512@gmail.com)
@@ -249,7 +185,7 @@ Bootloader with firmware upgrade mechanisms and rollback protection for bare-met
 
 <div align="center">
 
-*"Great embedded systems are invisible — they just work. Great models are the same."*
+*Good firmware is invisible — it just works. I like getting things to that point.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
